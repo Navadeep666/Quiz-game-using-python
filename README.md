@@ -1,0 +1,1 @@
+Welcome to the Supercar Quiz Portal! 🚗💨 This interactive quiz application is designed to test your knowledge of supercars, including vintage and modern models. Built using Python and Tkinter, this portal features an attractive user interface with colorful text, 3D-style buttons, and a vibrant background.
